@@ -6,6 +6,7 @@
     background: #fff38c;
   }
   
+  .reason,
   #sources h1 {
     font-size: 1.125em;
     font-weight: bold;
@@ -27,15 +28,3 @@
     text-align: left;
     word-break: break-all;
   }
-
-.container-md{
-    background-color: #cbe7f2;
-    display: flex;
-    margin-top:2em;
-    margin-bottom:2em;
-    justify-content: center;
-}
-
-.navbar-brand{
-    color: black;
-}
