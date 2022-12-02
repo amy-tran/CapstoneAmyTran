@@ -2,7 +2,7 @@ const body = document.querySelector("body");
 const nav = document.createElement("nav");
 nav.className = "navbar navbar-expand-lg navbar-dark bg-dark";
 nav.innerHTML = `<div class="container-fluid">
-<a class="navbar-brand" href="Research.html">Research</a>
+<a class="navbar-brand" href="ResearchMain.html">Credit Clarity</a>
 <button
   class="navbar-toggler"
   type="button"
@@ -17,7 +17,7 @@ nav.innerHTML = `<div class="container-fluid">
 <div class="collapse navbar-collapse" id="navbarNavDropdown">
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="Research.html"
+      <a class="nav-link active" aria-current="page" href="ResearchMain.html"
         >Home</a
       >
     </li>
