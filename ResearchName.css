@@ -1,1 +1,41 @@
+#problem {
+    background: #7fb77e;
+  }
+  
+  #need {
+    background: #fff38c;
+  }
+  
+  #sources h1 {
+    font-size: 1.125em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .footnote{
+    font-size: 0.55em;
+    vertical-align: text-top;
+    text-decoration: none;
+  }
+  
+  #sources div {
+    text-align: center;
+  }
+  
+  #sources ol {
+    display: inline-block;
+    text-align: left;
+    word-break: break-all;
+  }
 
+.container-md{
+    background-color: #cbe7f2;
+    display: flex;
+    margin-top:2em;
+    margin-bottom:2em;
+    justify-content: center;
+}
+
+.navbar-brand{
+    color: black;
+}
